@@ -1,11 +1,61 @@
-Team	Year	Country	HomeWins	TotalHome	HomeWinPercent
-Adelaide Thunderbirds	2008	Australia	5	7	71.42857143
-Canterbury Tactix	2008	New Zealand	2	5	40
-Central Pulse	2008	New Zealand	0	6	0
-Melbourne Vixens	2008	Australia	4	6	66.66666667
-New South Wales Swifts	2008	Australia	7	8	87.5
-Northern Mystics	2008	New Zealand	3	8	37.5
-Queensland Firebirds	2008	Australia	6	7	85.71428571
-Southern Steel	2008	New Zealand	5	7	71.42857143
-Waikato Bay of Plenty Magic	2008	New Zealand	8	9	88.88888889
-West Coast Fever	2008	Australia	1	6	16.66666667
+Team,Year,Country,HomeWins,TotalHome,HomeWinPercent
+Adelaide Thunderbirds,2008,Australia,5,7,71.42857143
+Canterbury Tactix,2008,New Zealand,2,5,40
+Central Pulse,2008,New Zealand,0,6,0
+Melbourne Vixens,2008,Australia,4,6,66.66666667
+New South Wales Swifts,2008,Australia,7,8,87.5
+Northern Mystics,2008,New Zealand,3,8,37.5
+Queensland Firebirds,2008,Australia,6,7,85.71428571
+Southern Steel,2008,New Zealand,5,7,71.42857143
+Waikato Bay of Plenty Magic,2008,New Zealand,8,9,88.88888889
+West Coast Fever,2008,Australia,1,6,16.66666667
+Adelaide Thunderbirds,2009,Australia,7,8,87.5
+Canterbury Tactix,2009,New Zealand,4,7,57.14285714
+Central Pulse,2009,New Zealand,1,7,14.28571429
+Melbourne Vixens,2009,Australia,9,9,100
+New South Wales Swifts,2009,Australia,2,6,33.33333333
+Northern Mystics,2009,New Zealand,2,6,33.33333333
+Queensland Firebirds,2009,Australia,4,6,66.66666667
+Southern Steel,2009,New Zealand,5,6,83.33333333
+Waikato Bay of Plenty Magic,2009,New Zealand,6,7,85.71428571
+West Coast Fever,2009,Australia,3,7,42.85714286
+Adelaide Thunderbirds,2010,Australia,6,7,85.71428571
+Canterbury Tactix,2010,New Zealand,1,6,16.66666667
+Central Pulse,2010,New Zealand,1,6,16.66666667
+Melbourne Vixens,2010,Australia,3,6,50
+New South Wales Swifts,2010,Australia,7,9,77.77777778
+Northern Mystics,2010,New Zealand,4,7,57.14285714
+Queensland Firebirds,2010,Australia,5,7,71.42857143
+Southern Steel,2010,New Zealand,5,7,71.42857143
+Waikato Bay of Plenty Magic,2010,New Zealand,7,8,87.5
+West Coast Fever,2010,Australia,3,6,50
+Adelaide Thunderbirds,2011,Australia,3,7,42.85714286
+Canterbury Tactix,2011,New Zealand,1,7,14.28571429
+Central Pulse,2011,New Zealand,2,7,28.57142857
+Melbourne Vixens,2011,Australia,4,6,66.66666667
+New South Wales Swifts,2011,Australia,4,7,57.14285714
+Northern Mystics,2011,New Zealand,4,6,66.66666667
+Queensland Firebirds,2011,Australia,8,8,100
+Southern Steel,2011,New Zealand,3,6,50
+Waikato Bay of Plenty Magic,2011,New Zealand,4,7,57.14285714
+West Coast Fever,2011,Australia,1,7,14.28571429
+Adelaide Thunderbirds,2012,Australia,5,6,83.33333333
+Canterbury Tactix,2012,New Zealand,1,6,16.66666667
+Central Pulse,2012,New Zealand,3,6,50
+Melbourne Vixens,2012,Australia,5,8,62.5
+New South Wales Swifts,2012,Australia,6,7,85.71428571
+Northern Mystics,2012,New Zealand,5,8,62.5
+Queensland Firebirds,2012,Australia,5,7,71.42857143
+Southern Steel,2012,New Zealand,1,7,14.28571429
+Waikato Bay of Plenty Magic,2012,New Zealand,7,8,87.5
+West Coast Fever,2012,Australia,2,6,33.33333333
+Adelaide Thunderbirds,2013,Australia,9,9,100
+Canterbury Tactix,2013,New Zealand,1,7,14.28571429
+Central Pulse,2013,New Zealand,6,7,85.71428571
+Melbourne Vixens,2013,Australia,5,8,62.5
+New South Wales Swifts,2013,Australia,3,6,50
+Northern Mystics,2013,New Zealand,1,6,16.66666667
+Queensland Firebirds,2013,Australia,3,6,50
+Southern Steel,2013,New Zealand,4,6,66.66666667
+Waikato Bay of Plenty Magic,2013,New Zealand,6,7,85.71428571
+West Coast Fever,2013,Australia,4,7,57.14285714
